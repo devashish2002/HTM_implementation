@@ -1,6 +1,6 @@
 # (Under maintainance)
 
-# HTM_implementation
+# Hierarchical Temporal Memory
 
 The core idea of the project is to design an appropriate model for the prediction of a body
 activity from the readings of three gyro sensors fitted on the body with the help of Hierarchical
